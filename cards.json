@@ -1,0 +1,4314 @@
+[
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "1",
+        "nome": "RM",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/rm.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "2",
+        "nome": "Jin",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/jin.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "3",
+        "nome": "SUGA",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/suga.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "4",
+        "nome": "J-Hope",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/jhope.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "5",
+        "nome": "Jimin",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/jimin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "6",
+        "nome": "V",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/V.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "7",
+        "nome": "Jungkook",
+        "grupo": "BTS",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BTS/jungkook.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "8",
+        "nome": "Jennie",
+        "grupo": "BLACKPINK",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BLACKPINK/jennie.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "9",
+        "nome": "Lisa",
+        "grupo": "BLACKPINK",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BLACKPINK/lisa.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "10",
+        "nome": "Rosé",
+        "grupo": "BLACKPINK",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BLACKPINK/rose.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "73",
+        "nome": "Jisoo",
+        "grupo": "BLACKPINK",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BLACKPINK/jisoo.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "11",
+        "nome": "Soyeon",
+        "grupo": "(G)-IDLE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/GIDLE/soyeon.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "12",
+        "nome": "Yuqi",
+        "grupo": "(G)-IDLE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/GIDLE/yuqi.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "13",
+        "nome": "Minnie",
+        "grupo": "(G)-IDLE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/GIDLE/minnie.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "14",
+        "nome": "Shuhua",
+        "grupo": "(G)-IDLE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/GIDLE/shuhua.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "15",
+        "nome": "Miyeon",
+        "grupo": "(G)-IDLE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/GIDLE/miyeon.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "16",
+        "nome": "Nayeon",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/nayeon.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "17",
+        "nome": "Jihyo",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/jihyo.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "18",
+        "nome": "Sana",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/sana.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "19",
+        "nome": "Mina",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/mina.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "20",
+        "nome": "Chaeyoung",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/chaeyoung.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "21",
+        "nome": "Tzuyu",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/tzuyu.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "22",
+        "nome": "Momo",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/momo.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "23",
+        "nome": "Dahyun",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/dahyun.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "24",
+        "nome": "Jeongyeon",
+        "grupo": "TWICE",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TWICE/jeongyeon.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "25",
+        "nome": "Giselle",
+        "grupo": "aespa",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/aespa/giselle.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "26",
+        "nome": "Ningning",
+        "grupo": "aespa",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/aespa/ningning.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "27",
+        "nome": "Karina",
+        "grupo": "aespa",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/aespa/karina.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "28",
+        "nome": "Winter",
+        "grupo": "aespa",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/aespa/winter.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "29",
+        "nome": "Ryunjin",
+        "grupo": "ITZY",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ITZY/ryujin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "30",
+        "nome": "Chaeryeong",
+        "grupo": "ITZY",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ITZY/chaeryeong.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "31",
+        "nome": "Lia",
+        "grupo": "ITZY",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ITZY/lia.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "32",
+        "nome": "Yuna",
+        "grupo": "ITZY",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ITZY/yuna.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "33",
+        "nome": "Yeji",
+        "grupo": "ITZY",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ITZY/yeji.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "34",
+        "nome": "Hanni",
+        "grupo": "New Jeans",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/New Jeans/hanni.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "35",
+        "nome": "Danielle",
+        "grupo": "New Jeans",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/New Jeans/danielle.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "36",
+        "nome": "Minji",
+        "grupo": "New Jeans",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/New Jeans/minji.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "37",
+        "nome": "Haerin",
+        "grupo": "New Jeans",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/New Jeans/haerin.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "38",
+        "nome": "Hyein",
+        "grupo": "New Jeans",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/New Jeans/hyein.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "39",
+        "nome": "Ellie Williams",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/ellie.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "musica",
+        "codigo": "40",
+        "nome": "Billie Eilish",
+        "submusica": "Artista Pop/Alt Pop",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MUSICA/billie eilish.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "41",
+        "nome": "Jeff",
+        "subtv": "Bottoms",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TV/Bottoms/jeff.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "42",
+        "nome": "Eren Yeager",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/eren.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "43",
+        "nome": "Margot Robbie",
+        "subvariedades": "Atrizes de filmes/Séries",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/VARIEDADES/Atrizes de filmes e Séries/margot robbie.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "44",
+        "nome": "Sakura Haruno",
+        "submanganime": "Naruto",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Naruto/sakura.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "45",
+        "nome": "Sakura",
+        "grupo": "LE SSERAFIM",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/LE SSERAFIM/sakura.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "46",
+        "nome": "Chaewon",
+        "grupo": "LE SSERAFIM",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/LE SSERAFIM/chaewon.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "47",
+        "nome": "Yunjin",
+        "grupo": "LE SSERAFIM",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/LE SSERAFIM/yunjin.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "48",
+        "nome": "Kazuha",
+        "grupo": "LE SSERAFIM",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/LE SSERAFIM/kazuha.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "49",
+        "nome": "Eunchae",
+        "grupo": "LE SSERAFIM",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/LE SSERAFIM/eunchae.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "50",
+        "nome": "Yeosang",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/yeosang.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "51",
+        "nome": "Wooyoung",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/wooyoung.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "52",
+        "nome": "Mingi",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/mingi.png"
+    }, 
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "53",
+        "nome": "Jongho",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/jongho.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "54",
+        "nome": "Yunho",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/yunho.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "55",
+        "nome": "San",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/san.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "56",
+        "nome": "Seonghwa",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/seonghwa.png"
+    }, 
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "57",
+        "nome": "Hongjoong",
+        "grupo": "ATEEZ",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ATEEZ/hongjoong.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "58",
+        "nome": "Bangchan",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/bangchan.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "59",
+        "nome": "Hyunjin",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/hyunjin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "60",
+        "nome": "Felix",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/felix.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "61",
+        "nome": "Lee Know",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/lee know.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "62",
+        "nome": "Han",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/han.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "63",
+        "nome": "Changbin",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/changbin.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "64",
+        "nome": "I.N",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/i.n.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "65",
+        "nome": "Seungmin",
+        "grupo": "Stray Kids",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/Stray Kids/seungmin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "66",
+        "nome": "Heeseung",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/heesung.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "67",
+        "nome": "Sunghoon",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/sunghoon.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "68",
+        "nome": "Jay",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/jay.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "69",
+        "nome": "Sunoo",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/sunoo.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "70",
+        "nome": "Jake",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/jake.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "71",
+        "nome": "Jungwon",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/jungwon.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "72",
+        "nome": "Ni-ki",
+        "grupo": "ENHYPEN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/ENHYPEN/niki.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "musica",
+        "codigo": "73",
+        "nome": "Sabrina Carpenter",
+        "submusica": "Artista Pop/Alt Pop",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MUSICA/sabrina carpenter.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "musica",
+        "codigo": "74",
+        "nome": "Ariana Grande",
+        "submusica": "Artista Pop/Alt Pop",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MUSICA/ariana.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "75",
+        "nome": "Emma",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/emma.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "76",
+        "nome": "Chloe Young",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/chloe.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "77",
+        "nome": "Kelly",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/kelly.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "78",
+        "nome": "Vin",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/vin.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "79",
+        "nome": "HU’E",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/hue.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "80",
+        "nome": "INA",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/ina.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "81",
+        "nome": "Yunseo",
+        "grupo": "BAD VILLAIN",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BAD VILLAIN/yunseo.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "82",
+        "nome": "Chisa",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/chisa.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "83",
+        "nome": "Cocona",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/cocona.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "84",
+        "nome": "Hinata",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/hinata.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "85",
+        "nome": "Juria",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/juria.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "86",
+        "nome": "Jurin",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/jurin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "87",
+        "nome": "Harvey",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/harvey.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "88",
+        "nome": "Maya",
+        "grupo": "XG",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/XG/maya.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "89",
+        "nome": "Kate Bishop",
+        "subtv": "MCU",
+        "imagem": "kate.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "90",
+        "nome": "Gwen Stacy",
+        "subtv": "MCU",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MCU/gwen stacy.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "91",
+        "nome": "Doeun",
+        "grupo": "Young Posse",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/YOUNG POSSE/doeun.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "92",
+        "nome": "Jiana",
+        "grupo": "Young Posse",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/YOUNG POSSE/jiana.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "93",
+        "nome": "Jieun",
+        "grupo": "Young Posse",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/YOUNG POSSE/jieun.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "94",
+        "nome": "Sunhye",
+        "grupo": "Young Posse",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/YOUNG POSSE/sunhye.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "95",
+        "nome": "Yeonjung",
+        "grupo": "Young Posse",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/YOUNG POSSE/yeonjung.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "96",
+        "nome": "Connor",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/connor.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "97",
+        "nome": "Markus",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/markus.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "98",
+        "nome": "Kara",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/kara.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "99",
+        "nome": "Alice Williams",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/alice.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "99",
+        "nome": "Capitão Allen",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/cap allen.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "100",
+        "nome": "Hank Anderson",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/hank.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "101",
+        "nome": "Carl Manfred",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/carl.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "102",
+        "nome": "Chloe",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/chloe.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "103",
+        "nome": "Daniel",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/daniel.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "103",
+        "nome": "Elijah Kamski",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/elijah.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "104",
+        "nome": "Gavin Reed",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/gavin.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "105",
+        "nome": "Jerry",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/jerry.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "106",
+        "nome": "Josh",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/josh.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "107",
+        "nome": "Luther",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/luther.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "108",
+        "nome": "North",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/north.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "109",
+        "nome": "Ralph",
+        "subjogos": "Detroit: Become Human",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/DBH/ralph.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "110",
+        "nome": "Kratos",
+        "subjogos": "God Of War",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/God Of War/kratos.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "111",
+        "nome": "Atreus",
+        "subjogos": "God Of War",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/God Of War/atreus.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "112",
+        "nome": "Levi Ackerman",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/levi.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "113",
+        "nome": "Mikasa Ackerman",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/mikasa.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "114",
+        "nome": "Armin Arlert",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/armin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "115",
+        "nome": "Hange Zoe",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/hange.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "116",
+        "nome": "Erwin Smith",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/erwin.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "117",
+        "nome": "Reiner Braun",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/reiner.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "118",
+        "nome": "Titã de Ataque",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/attack titan.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "119",
+        "nome": "Ymir",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/ymir.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "120",
+        "nome": "Historia Reiss",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/historia.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "121",
+        "nome": "Sasha Braus",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/sasha.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "122",
+        "nome": "Annie Leonhart",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/annie.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "123",
+        "nome": "Gabi Braun",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/gabi.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "124",
+        "nome": "Falco Grice",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/falco.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "125",
+        "nome": "Zeke Yeager",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/zeke.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "126",
+        "nome": "Jean Kirstein",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/jean.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "127",
+        "nome": "Ymir Fritz",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/ymir fritz.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "128",
+        "nome": "Bertholdt Hoover",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/bertholdt.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "129",
+        "nome": "Connie Springer",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/connie.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "130",
+        "nome": "Pieck Finger",
+        "submanganime": "Attack On Titan",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/MANGANIME/Attack On Titan/PIECK.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "131",
+        "nome": "Ahyeon",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/ahyeon.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "132",
+        "nome": "Ruka",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/ruka.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "133",
+        "nome": "Chiquita",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/chiquita.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "134",
+        "nome": "Asa",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/asa.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "135",
+        "nome": "Pharita",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/pharita.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "136",
+        "nome": "Rora",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/rora.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "137",
+        "nome": "Rora",
+        "grupo": "BABYMONSTER",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/BABY MONSTER/rami.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "138",
+        "nome": "Kai",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/kai.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "139",
+        "nome": "Baekhyun",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/baekhyun.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "140",
+        "nome": "Chanyeol",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/chanyeol.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "141",
+        "nome": "Chen",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/chen.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "142",
+        "nome": "D.O",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/d.o.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "143",
+        "nome": "Sehun",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/sehun.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "144",
+        "nome": "Suho",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/suho.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "145",
+        "nome": "Xiumin",
+        "grupo": "EXO",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/EXO/xiumin.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "146",
+        "nome": "Isabel",
+        "subtv": "Bottoms",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TV/Bottoms/isabel.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "147",
+        "nome": "Hazel",
+        "subtv": "Bottoms",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TV/Bottoms/hazel.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "148",
+        "nome": "Brittany",
+        "subtv": "Bottoms",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TV/Bottoms/brittany.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "149",
+        "nome": "PJ",
+        "subtv": "Bottoms",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TV/Bottoms/pj.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "150",
+        "nome": "Josie",
+        "subtv": "Bottoms",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/TV/Bottoms/josie.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "151",
+        "nome": "Joel Miller",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/joel.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "152",
+        "nome": "Tess",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/tess.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "153",
+        "nome": "Tommy Miller",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/tommy.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "jogos",
+        "codigo": "154",
+        "nome": "Abby Anderson",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/abby.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "155",
+        "nome": "Riley",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/riley.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "156",
+        "nome": "Dina",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/dina.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "157",
+        "nome": "Maria Miller",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/maria.png"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "jogos",
+        "codigo": "158",
+        "nome": "Bill",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/bill.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "159",
+        "nome": "Marlene",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/marlene.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "160",
+        "nome": "Henry",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/henry.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "161",
+        "nome": "Sam",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/sam.png"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "jogos",
+        "codigo": "162",
+        "nome": "Sarah Miller",
+        "subjogos": "The Last Of Us",
+        "imagem": "C:/Users/julia/OneDrive/Área de Trabalho/bottelegram/IMAGENS/JOGOS/The Last Of Us/sarah.png"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "163",
+        "nome": "Tony Stark",
+        "subtv": "MCU",
+        "imagem": "tony_stark.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "164",
+        "nome": "Thor",
+        "subtv": "MCU",
+        "imagem": "thor.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "165",
+        "nome": "Peter Parker I",
+        "subtv": "MCU",
+        "imagem": "peter_parker_i.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "166",
+        "nome": "Peter Parker II",
+        "subtv": "MCU",
+        "imagem": "peter_parker_ii.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "167",
+        "nome": "Peter Parker III",
+        "subtv": "MCU",
+        "imagem": "peter_parker_iii.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "168",
+        "nome": "Natasha Romanoff",
+        "subtv": "MCU",
+        "imagem": "natasha_romanoff.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "169",
+        "nome": "Wanda Maximoff",
+        "subtv": "MCU",
+        "imagem": "wanda_maximoff.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "170",
+        "nome": "Steve Rogers",
+        "subtv": "MCU",
+        "imagem": "steve_rogers.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "171",
+        "nome": "Bruce Banner",
+        "subtv": "MCU",
+        "imagem": "bruce_banner.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "172",
+        "nome": "Carol Danvers",
+        "subtv": "MCU",
+        "imagem": "carol_danvers.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "173",
+        "nome": "Peter Quill",
+        "subtv": "MCU",
+        "imagem": "peter_quill.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "174",
+        "nome": "Scott Lang",
+        "subtv": "MCU",
+        "imagem": "scott_lang.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "175",
+        "nome": "Clint Barton",
+        "subtv": "MCU",
+        "imagem": "clint_barton.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "176",
+        "nome": "T'Challa",
+        "subtv": "MCU",
+        "imagem": "t_challa.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "177",
+        "nome": "Gamora",
+        "subtv": "MCU",
+        "imagem": "gamora.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "178",
+        "nome": "Loki",
+        "subtv": "MCU",
+        "imagem": "loki.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "179",
+        "nome": "Eddie Brock",
+        "subtv": "MCU",
+        "imagem": "eddie_brock.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "180",
+        "nome": "Venom",
+        "subtv": "MCU",
+        "imagem": "venom.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "181",
+        "nome": "Deadpool",
+        "subtv": "MCU",
+        "imagem": "deadpool.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "191",
+        "nome": "Groot",
+        "subtv": "MCU",
+        "imagem": "groot.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "192",
+        "nome": "Yelena Belova",
+        "subtv": "MCU",
+        "imagem": "yelena.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "193",
+        "nome": "Mary Jane",
+        "subtv": "MCU",
+        "imagem": "mary_jane.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "194",
+        "nome": "Michelle Jones",
+        "subtv": "MCU",
+        "imagem": "michelle_jones.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "195",
+        "nome": "Cassandra Webb",
+        "subtv": "MCU",
+        "imagem": "cassandra_webb.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "196",
+        "nome": "Jean Grey II",
+        "subtv": "MCU",
+        "imagem": "jean_grey_ii.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "197",
+        "nome": "Jean Grey I",
+        "subtv": "MCU",
+        "imagem": "jean_grey_i.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "198",
+        "nome": "Harry Osborn",
+        "subtv": "MCU",
+        "imagem": "harry_osborn.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "199",
+        "nome": "Duende Verde",
+        "subtv": "MCU",
+        "imagem": "duende_verde.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "200",
+        "nome": "Doutor Octopus",
+        "subtv": "MCU",
+        "imagem": "doutor_octopus.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "201",
+        "nome": "Bucky Barnes",
+        "subtv": "MCU",
+        "imagem": "bucky_barnes.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "202",
+        "nome": "Pietro Maximoff",
+        "subtv": "MCU",
+        "imagem": "pietro_maximoff.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "203",
+        "nome": "Rocket Raccoon",
+        "subtv": "MCU",
+        "imagem": "rocket_raccoon.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "204",
+        "nome": "Sam Wilson",
+        "subtv": "MCU",
+        "imagem": "sam_wilson.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "205",
+        "nome": "Thanos",
+        "subtv": "MCU",
+        "imagem": "thanos.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "206",
+        "nome": "Nebula",
+        "subtv": "MCU",
+        "imagem": "nebula.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "207",
+        "nome": "Mantis",
+        "subtv": "MCU",
+        "imagem": "mantis.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "208",
+        "nome": "Shuri",
+        "subtv": "MCU",
+        "imagem": "shuri.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "209",
+        "nome": "America Chavez",
+        "subtv": "MCU",
+        "imagem": "america_chavez.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "210",
+        "nome": "Okoye",
+        "subtv": "MCU",
+        "imagem": "okoye.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "211",
+        "nome": "Namor",
+        "subtv": "MCU",
+        "imagem": "namor.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "212",
+        "nome": "Monica Rambeau",
+        "subtv": "MCU",
+        "imagem": "monica_rambeau.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "213",
+        "nome": "Hope Van Dyne",
+        "subtv": "MCU",
+        "imagem": "hope_van_dyne.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "214",
+        "nome": "Hela",
+        "subtv": "MCU",
+        "imagem": "hela.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "215",
+        "nome": "Valquíria",
+        "subtv": "MCU",
+        "imagem": "valquiria.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "216",
+        "nome": "Shang-Chi",
+        "subtv": "MCU",
+        "imagem": "shang_chi.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "217",
+        "nome": "Jane Foster",
+        "subtv": "MCU",
+        "imagem": "jane_foster.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "218",
+        "nome": "Drax",
+        "subtv": "MCU",
+        "imagem": "drax.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "219",
+        "nome": "Agatha Harkness",
+        "subtv": "MCU",
+        "imagem": "agatha_harkness.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "220",
+        "nome": "Kamala Khan",
+        "subtv": "MCU",
+        "imagem": "kamala_khan.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "221",
+        "nome": "Cassie Lang",
+        "subtv": "MCU",
+        "imagem": "cassie_lang.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "222",
+        "nome": "Ajak",
+        "subtv": "MCU",
+        "imagem": "ajak.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "223",
+        "nome": "Druig",
+        "subtv": "MCU",
+        "imagem": "druig.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "224",
+        "nome": "Gilgamesh",
+        "subtv": "MCU",
+        "imagem": "gilgamesh.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "225",
+        "nome": "Ikaris",
+        "subtv": "MCU",
+        "imagem": "ikaris.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "226",
+        "nome": "Kingo",
+        "subtv": "MCU",
+        "imagem": "kingo.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "227",
+        "nome": "Makkari",
+        "subtv": "MCU",
+        "imagem": "makkari.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "228",
+        "nome": "Phastos",
+        "subtv": "MCU",
+        "imagem": "phastos.jpg"
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "229",
+        "nome": "Sersi",
+        "subtv": "MCU",
+        "imagem": "sersi.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "230",
+        "nome": "Sprite",
+        "subtv": "MCU",
+        "imagem": "sprite.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "231",
+        "nome": "Thena",
+        "subtv": "MCU",
+        "imagem": "thena.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "234",
+        "nome": "Deke Shaw",
+        "subtv": "MCU",
+        "imagem": "deke_shaw.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "235",
+        "nome": "Grant Ward",
+        "subtv": "MCU",
+        "imagem": "grant_ward.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "236",
+        "nome": "Lance Hunter",
+        "subtv": "MCU",
+        "imagem": "lance_hunter.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "237",
+        "nome": "Yoyo Rodriguez",
+        "subtv": "MCU",
+        "imagem": "yoyo_rodriguez.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "238",
+        "nome": "Bobbi Morse",
+        "subtv": "MCU",
+        "imagem": "bobbi_morse.jpg"
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "239",
+        "nome": "Lincoln Campbell",
+        "subtv": "MCU",
+        "imagem": "lincoln_campbell.jpg"
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "240",
+        "nome": "Daryl Dixon",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "241",
+        "nome": "Glenn Rhee",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "242",
+        "nome": "Rick Grimes",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "243",
+        "nome": "Michonne",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "244",
+        "nome": "Carl Grimes",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "245",
+        "nome": "Lori Grimes",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "246",
+        "nome": "Carol Peletier",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "247",
+        "nome": "Maggie Rhee",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "248",
+        "nome": "Shane Walsh",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "249",
+        "nome": "Governador",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "250",
+        "nome": "Andrea Harrison",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "251",
+        "nome": "Judith Grimes",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "252",
+        "nome": "T-Dog",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "253",
+        "nome": "Hershel Greene",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "254",
+        "nome": "Rosita Espinosa",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "255",
+        "nome": "Negan Smith",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "256",
+        "nome": "Abraham",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "257",
+        "nome": "Jesus",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "258",
+        "nome": "Morgan",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "259",
+        "nome": "Padre Gabriel",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "260",
+        "nome": "Tyreese Williams",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "261",
+        "nome": "Sasha Williams",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "262",
+        "nome": "Merle Dixon",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "263",
+        "nome": "Aaron",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "264",
+        "nome": "Enid",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "265",
+        "nome": "Tara Chambler",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "266",
+        "nome": "Eugene Porter",
+        "subtv": "The Walking Dead",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "267",
+        "nome": "Katniss Everdeen",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "268",
+        "nome": "Peeta Mellark",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "269",
+        "nome": "Finnick Odair",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "270",
+        "nome": "Haymitch Abernathy",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "271",
+        "nome": "Gale Hawthorne",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "272",
+        "nome": "Effie Trinket",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "273",
+        "nome": "President Snow",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "274",
+        "nome": "Primrose Everdeen",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "275",
+        "nome": "Johanna Mason",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "276",
+        "nome": "Cinna",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "277",
+        "nome": "Alma Coin",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "278",
+        "nome": "Beetee",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "279",
+        "nome": "Cato",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "280",
+        "nome": "Clove",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "281",
+        "nome": "Glimmer",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "282",
+        "nome": "Caesar Flickerman",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "283",
+        "nome": "Tresh",
+        "subtv": "Jogos Vorazes",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "284",
+        "nome": "Yumeko Jabami",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "manganime",
+        "codigo": "285",
+        "nome": "Mary Saotome",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "286",
+        "nome": "Runa Yomozuki",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "287",
+        "nome": "Itsuki Sumeragi",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "manganime",
+        "codigo": "288",
+        "nome": "Kirari Momobami",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "289",
+        "nome": "Kaede Manyuda",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "290",
+        "nome": "Ryota Suzui",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "291",
+        "nome": "Midari Ikishima",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "292",
+        "nome": "Sayaka Igarashi",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "293",
+        "nome": "Yumemi Yumemite",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "294",
+        "nome": "Yuriko Nishinotouin",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "295",
+        "nome": "Sachiko Juraku",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "296",
+        "nome": "Ririka Momobami",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "297",
+        "nome": "Tsuzura Hanatemari",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "manganime",
+        "codigo": "298",
+        "nome": "Yukimi Togakushi",
+        "submanganime": "Kakegurui",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "299",
+        "nome": "Coringa",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "300",
+        "nome": "Bruce Wayne",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "301",
+        "nome": "Bruce Wayne II",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "302",
+        "nome": "Arlequina",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "303",
+        "nome": "Diana Prince",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "304",
+        "nome": "Clark Kent",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "305",
+        "nome": "Selina Kyle",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "306",
+        "nome": "Jonathan Crane",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "307",
+        "nome": "Harvey Dent",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "308",
+        "nome": "Bane",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "309",
+        "nome": "Selina Kyle II",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "310",
+        "nome": "Adrian Chase",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "311",
+        "nome": "Pacificador",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "312",
+        "nome": "Amanda Waller",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "313",
+        "nome": "Coringa II",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "314",
+        "nome": "Dick Grayson",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "315",
+        "nome": "Rachel Roth",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "316",
+        "nome": "Krypto",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "317",
+        "nome": "Donna Troy",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "318",
+        "nome": "Gar Logan",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "319",
+        "nome": "Kory Anders",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "320",
+        "nome": "Enigma",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "321",
+        "nome": "Rachel Dawes",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "322",
+        "nome": "John Blake",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "323",
+        "nome": "Jim Gordon",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "324",
+        "nome": "Alfred Pennyworth",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "325",
+        "nome": "Lucius Fox",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "326",
+        "nome": "Ra's al Ghul",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "327",
+        "nome": "Talia al Ghul",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "328",
+        "nome": "Mera",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "329",
+        "nome": "Rick Flag",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "330",
+        "nome": "Dinah Lance",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "331",
+        "nome": "Cassandra Cain",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "332",
+        "nome": "Helena Bertinelli",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "333",
+        "nome": "Renee Montoya",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "334",
+        "nome": "Tubarão-Rei",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "335",
+        "nome": "Sanguinário",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "336",
+        "nome": "Pistoleiro",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "337",
+        "nome": "Caça-Ratos 2",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "338",
+        "nome": "Doninha",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "339",
+        "nome": "Homem-Bolinha",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "340",
+        "nome": "Capitão Bumerang",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "341",
+        "nome": "El Diablo",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "342",
+        "nome": "Katana",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "343",
+        "nome": "Magia",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "344",
+        "nome": "Auggie Smith",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "345",
+        "nome": "Clemson Murn",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "346",
+        "nome": "Judomaster",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "347",
+        "nome": "Leota Adebayo",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "348",
+        "nome": "Emilia Harcourt",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "349",
+        "nome": "John Economos",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "350",
+        "nome": "Eagly",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "351",
+        "nome": "Jason Todd",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "352",
+        "nome": "Conner Kent",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "353",
+        "nome": "Hank Hall",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "354",
+        "nome": "Dawn Granger",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "355",
+        "nome": "Tim Drake",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "356",
+        "nome": "Komand'r",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "357",
+        "nome": "Barbara Gordon",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "358",
+        "nome": "Oswald Cobblepot",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "359",
+        "nome": "Alfred Pennyworth II",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "360",
+        "nome": "Carmine Falcone",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "361",
+        "nome": "James Gordon",
+        "subtv": "DCU",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "362",
+        "nome": "Wonwoo",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "363",
+        "nome": "Mingyu",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "364",
+        "nome": "Woozi",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "365",
+        "nome": "Seungkwan",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "366",
+        "nome": "Jun",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "367",
+        "nome": "Vernon",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "368",
+        "nome": "DK",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "369",
+        "nome": "Hoshi",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "370",
+        "nome": "The8",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "371",
+        "nome": "Dino",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "372",
+        "nome": "S.Coups",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "373",
+        "nome": "Jeonghan",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "374",
+        "nome": "Joshua",
+        "grupo": "SEVENTEEN",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "375",
+        "nome": "Isabella Swan",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "376",
+        "nome": "Edward Cullen",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "tv",
+        "codigo": "377",
+        "nome": "Alice Cullen",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "378",
+        "nome": "Jacob Black",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "379",
+        "nome": "Renesmee Cullen",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "380",
+        "nome": "Emmett Cullen",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "381",
+        "nome": "Carlisle Cullen",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "tv",
+        "codigo": "382",
+        "nome": "Aro Volturi",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "383",
+        "nome": "Rosalie Hale",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "384",
+        "nome": "Jasper Hale",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "385",
+        "nome": "Esme Cullen",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "386",
+        "nome": "Charlie Swan",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "387",
+        "nome": "Jane Volturi",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "388",
+        "nome": "Victoria",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "389",
+        "nome": "James",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "390",
+        "nome": "Laurent",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "391",
+        "nome": "Garrett",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "392",
+        "nome": "Irina Denali",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "393",
+        "nome": "Tanya Denali",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "394",
+        "nome": "Kate Denali",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "395",
+        "nome": "Alec Volturi",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "396",
+        "nome": "Marcus Volturi",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "397",
+        "nome": "Carmen Denali",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "tv",
+        "codigo": "398",
+        "nome": "Eleazar Denal",
+        "subtv": "Crepúsculo",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "399",
+        "nome": "CL",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "400",
+        "nome": "BoA",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "401",
+        "nome": "Sunmi",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "402",
+        "nome": "Kim Sejeong",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "403",
+        "nome": "Chuu",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "404",
+        "nome": "Yena",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "405",
+        "nome": "Lee Chaeyeon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "406",
+        "nome": "Yves",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "407",
+        "nome": "Soojin",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "408",
+        "nome": "IU",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "409",
+        "nome": "Chung Ha",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "410",
+        "nome": "Jeon Somi",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "411",
+        "nome": "Park Jihoon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "412",
+        "nome": "Wonho",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "413",
+        "nome": "Sulli",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "414",
+        "nome": "Do Hanse",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "415",
+        "nome": "Han Seungwoo",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "416",
+        "nome": "Lee Hi",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "417",
+        "nome": "WOODZ",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "418",
+        "nome": "BIBI",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "asia",
+        "codigo": "419",
+        "nome": "Jessica Jung",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "420",
+        "nome": "Park Bom",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "421",
+        "nome": "Minzy",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "422",
+        "nome": "Sandara Park",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "423",
+        "nome": "Shin Jimin",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "424",
+        "nome": "Sorn",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "425",
+        "nome": "Yeeun",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "426",
+        "nome": "Ryu Sujeong",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "427",
+        "nome": "HA:TFELT",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "428",
+        "nome": "Taeha",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "429",
+        "nome": "MIJOO",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "430",
+        "nome": "Yubin",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "431",
+        "nome": "Ailee",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "432",
+        "nome": "Rocky",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "433",
+        "nome": "DALsooobin",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "434",
+        "nome": "Hyeoeun",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "435",
+        "nome": "Jeonyul",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "436",
+        "nome": "Kim Jaehwan",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "437",
+        "nome": "Aron",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "438",
+        "nome": "Kim Jonghyeon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "439",
+        "nome": "Baekho",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "440",
+        "nome": "Ren",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "441",
+        "nome": "Ha Sungwoon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "442",
+        "nome": "Jueun",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "443",
+        "nome": "Lucas",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "444",
+        "nome": "PSY",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "445",
+        "nome": "Yoon Jisung",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "446",
+        "nome": "Bang Yedam",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "447",
+        "nome": "AleXa",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "448",
+        "nome": "Soyou",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "449",
+        "nome": "Yukika",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "450",
+        "nome": "Suran",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "451",
+        "nome": "Gyubin",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "452",
+        "nome": "Bada",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "453",
+        "nome": "Sunye",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "454",
+        "nome": "HyunA",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "455",
+        "nome": "K.will",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "456",
+        "nome": "Eric Nam",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "457",
+        "nome": "Youngjae",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "458",
+        "nome": "Jung Daehyun",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "459",
+        "nome": "ONLEE",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "460",
+        "nome": "Beomhan",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "461",
+        "nome": "LEO",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "462",
+        "nome": "You Dayeon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "463",
+        "nome": "Lim Young Woong",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "464",
+        "nome": "ichan",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "465",
+        "nome": "Min",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "466",
+        "nome": "Lee Hyori",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "467",
+        "nome": "Hyolyn",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "468",
+        "nome": "J.Y. Park",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "469",
+        "nome": "Holland",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "470",
+        "nome": "Kangta",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "asia",
+        "codigo": "471",
+        "nome": "J'LEA",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "472",
+        "nome": "Baek Yebin",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "473",
+        "nome": "WON",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "474",
+        "nome": "Yein",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "475",
+        "nome": "ARRAN",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "476",
+        "nome": "Lee Sujeong",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "477",
+        "nome": "Kei",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "478",
+        "nome": "Kim Chaewon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "479",
+        "nome": "Han Hyeri",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "480",
+        "nome": "Eunice",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "481",
+        "nome": "Jun Hyoseong",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "482",
+        "nome": "Hana",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "483",
+        "nome": "Song Jieun",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "484",
+        "nome": "Ju Wontak",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "485",
+        "nome": "Hong Eunki",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "486",
+        "nome": "Mincheon",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "487",
+        "nome": "Yoonie",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "488",
+        "nome": "G.NA",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "489",
+        "nome": "Yezi",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "asia",
+        "codigo": "490",
+        "nome": "Woohyun",
+        "grupo": "Solistas de K-pop",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "491",
+        "nome": "Jensen Ackles",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "492",
+        "nome": "Jared Padalecki",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "493",
+        "nome": "Nicolas Cage",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "494",
+        "nome": "Leonardo DiCaprio",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "495",
+        "nome": "Tom Cruise",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "496",
+        "nome": "Robert Downey Jr",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "497",
+        "nome": "Will Smith",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "498",
+        "nome": "Tom Holland",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "499",
+        "nome": "Timothée Chalamet",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "500",
+        "nome": "Finn Wolfhard",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "501",
+        "nome": "Dylan O'Brien",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "502",
+        "nome": "Bill Skarsgård",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "503",
+        "nome": "Norman Reedus",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "504",
+        "nome": "Andrew Lincoln",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "505",
+        "nome": "Jeffrey Dean Morgan",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "506",
+        "nome": "Paul Walker",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "507",
+        "nome": "Daniel Radcliffe",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "508",
+        "nome": "Andrew Garfield",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "509",
+        "nome": "Jacob Elordi",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "variedades",
+        "codigo": "510",
+        "nome": "Evan Peters",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "511",
+        "nome": "Chadwick Boseman",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "512",
+        "nome": "Michael B. Jordan",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "513",
+        "nome": "Tobey Maguire",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "514",
+        "nome": "Willem Dafoe",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "515",
+        "nome": "Robert Pattinson",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "516",
+        "nome": "Ryan Gosling",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "517",
+        "nome": "Henry Cavill",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "518",
+        "nome": "Chris Hemsworth",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "519",
+        "nome": "Cameron Boyce",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "520",
+        "nome": "Chris Evans",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "521",
+        "nome": "Cillian Murphy",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "522",
+        "nome": "Morgan Freeman",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "523",
+        "nome": "Pedro Pascal",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "524",
+        "nome": "Robert De Niro",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "525",
+        "nome": "Al Pacino",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "526",
+        "nome": "Ian Somerhalder",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "variedades",
+        "codigo": "527",
+        "nome": "Michele Morrone",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "variedades",
+        "codigo": "528",
+        "nome": "Barry Keoghan",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "529",
+        "nome": "Mads Mikkelsen",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "530",
+        "nome": "Christian Bale",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "531",
+        "nome": "Heath Ledger",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "532",
+        "nome": "Jake Gyllenhaal",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "533",
+        "nome": "Ethan Hawke",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "534",
+        "nome": "Ryan Reynolds",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "variedades",
+        "codigo": "535",
+        "nome": "Skeet Ulrich",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "536",
+        "nome": "Wagner Moura",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "537",
+        "nome": "Sylvester Stallone",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "538",
+        "nome": "Andrew Scott",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "539",
+        "nome": "John Krasinski",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Lendário",
+        "categoria": "variedades",
+        "codigo": "540",
+        "nome": "David Harbour",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "541",
+        "nome": "Matthew Perry",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "variedades",
+        "codigo": "542",
+        "nome": "Misha Collins",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "543",
+        "nome": "Dwayne Johnson",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "544",
+        "nome": "Jason Statham",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "545",
+        "nome": "Johnny Depp",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Raro",
+        "categoria": "variedades",
+        "codigo": "546",
+        "nome": "Keanu Reeves",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    },
+    {
+        "raridade": "Comum",
+        "categoria": "variedades",
+        "codigo": "547",
+        "nome": "Brad Pitt",
+        "subvariedades": "Atores de Filmes/Séries",
+        "imagem": ""
+    }
+]
